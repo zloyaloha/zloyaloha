@@ -13,7 +13,7 @@
 </div>
 
 <h1 id="test" align="center">
-  Hello, world
+  Hello, world. I am Vova
   <img src="https://media.giphy.com/media/xUOrvZ4p5o3QlIumZO/giphy.gif" width="25px"/>
 </h1>
 
@@ -33,9 +33,4 @@
 </div>
 
 ---
-
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/itszed0/test-post-490g)
-<!-- BLOG-POST-LIST:END -->
 
