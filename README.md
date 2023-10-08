@@ -1,9 +1,5 @@
 
 
-<h6 id="header" align="center">
-  Работа программиста и шамана имеет много общего - оба бормочут непонятные слова, совершают непонятные действия и не могут объяснить, как оно работает.
-</h6>
-
 <div id="gif" align="center">
   <img src="https://media.giphy.com/media/FFb9yZK6t0oDu/giphy.gif" width="150"/>
 </div>
@@ -18,7 +14,7 @@
 </div>
 
 <h1 id="test" align="center">
-  Hello, world. I am Vova
+  Hi there, I am Vladimir
   <img src="https://media.giphy.com/media/xUOrvZ4p5o3QlIumZO/giphy.gif" width="25px"/>
 </h1>
 
@@ -27,8 +23,8 @@
 </div>
 
 ### :man_student: About Me : 
-<img src="https://media.giphy.com/media/RlrmbPf91YOYds6nzW/giphy.gif" width="30"> I am a first year student at the Moscow Aviation Institute from Yaroslavl.<br>
-<img src="https://media.giphy.com/media/cNlmSBvP8mz68TDLYD/giphy-downsized-large.gif" width="30"> My name is Vova Filippov
+<img src="https://media.giphy.com/media/RlrmbPf91YOYds6nzW/giphy.gif" width="30"> I am a second-year student at Moscow Aviation University.<br>
+<img src="https://media.giphy.com/media/cNlmSBvP8mz68TDLYD/giphy-downsized-large.gif" width="30"> My name is Vladimir Filippov
 
 ---
 
