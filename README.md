@@ -39,7 +39,7 @@
 
 ---
 
-<div id="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zloyaloha&show_icons=true&theme=radical" width="590" height="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zloyaloha&exclude_repo=contraction-graph-coloring-algorithm,ML&layout=donut&theme=radical" width="400" height="400"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zloyaloha&exclude_repo=contraction-graph-coloring-algorithm,ML&layout=donut&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zloyaloha&exclude_repo=contraction-graph-coloring-algorithm,ML&layout=donut&theme=radical"/>
 </div>
