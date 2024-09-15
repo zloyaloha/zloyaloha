@@ -23,7 +23,7 @@
 </div>
 
 ### :man_student: About Me : 
-<img src="https://media.giphy.com/media/RlrmbPf91YOYds6nzW/giphy.gif" width="30"> I am a second-year student at Moscow Aviation University.<br>
+<img src="https://media.giphy.com/media/RlrmbPf91YOYds6nzW/giphy.gif" width="30"> I am a third-year student at Moscow Aviation University.<br>
 <img src="https://media.giphy.com/media/cNlmSBvP8mz68TDLYD/giphy-downsized-large.gif" width="30"> My name is Vladimir Filippov
 
 ---
